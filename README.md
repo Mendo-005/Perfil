@@ -2,12 +2,9 @@
 Mi nombre es Mendo, soy estudiante de UNIE TheCore en el programa DAM en España. 
 
 ### 📝 Estudios
-Bachillerato - Desarrollo De Aplicaciones Multiplataforma
-- Primer año:
-  - Trimestre 1
-  - Trimestre 2
-  - Trimestre 3
-
+- Bachillerato 
+- Desarrollo De Aplicaciones Multiplataforma
+  
 ### 👨‍💻 Herramientas
 #### Lenguajes
 - Python, HTML5, CSS3, MySql, PowerShell
